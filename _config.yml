@@ -110,7 +110,7 @@ author:
   location         : #"Somewhere"
   email            :
   links:
-    - label: "Email"
+      label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:yeonju7548@naver.com"
     - label: "Website"
