@@ -4,9 +4,9 @@ main:
     url: https://yeonju109.github.io
   - title: "Search"
     #url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Category"
-  #  url: /year-archive/
-  - title: "Tag"
-  #  url: /collection-archive/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
   - title: "About me"
   #  url: /sitemap/
